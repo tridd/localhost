@@ -1,0 +1,25 @@
+$ git status
+On branch master
+
+Initial commit
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+
+        new file:   .htaccess
+        new file:   .idea/vcs.xml
+        new file:   fon.png
+        new file:   index.php
+        new file:   st.png
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+        .idea/encodings.xml
+        .idea/localhost.iml
+        .idea/modules.xml
+        .idea/workspace.xml
+
+
+Администратор@XTREME-MR0BMLNG MINGW64 /c/OpenServer/domains/localhost (master)
+$ git push
